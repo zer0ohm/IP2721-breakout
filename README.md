@@ -27,6 +27,10 @@ Note: VBUS voltage is 12/9/5V for IP2721-MAX12
 ## License
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
+## Disclaimer
+Disclaimer
+There is no warranty, expressed or implied, associated with files in this project. Please use at your own risk.
+
 ## Related Document
 [IP2721 Datasheet](https://datasheet.lcsc.com/lcsc/2006111335_INJOINIC-IP2721_C603176.pdf)  
 [Side A PartMap](./PDBreakout_PartMap_SideA.pdf)  
