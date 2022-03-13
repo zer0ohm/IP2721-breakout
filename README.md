@@ -16,7 +16,7 @@ Breakout for IP2721 Sink-side USB PD Controller
 Note: PMG stand for "PM"OS "G"ate.
 
 ## Usage
-Soldering the parts obtained according to the [BOM](./IP2721_Breakout_BOM.pdf) and configure the output voltage of the PD with "SEL_STAT".
+Soldering the parts obtained according to the [BOM](./PDBreakout_BOM.pdf) and configure the output voltage of the PD with "SEL_STAT".
 
 | SEL_STAT Voltage | Connected Terminals | Output VBUS Voltage |
 |------------------|---------------------|---------------------|
