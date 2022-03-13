@@ -11,9 +11,7 @@ Breakout for IP2721 Sink-side USB PD Controller
 | VBG     | O   | Gate Driver for Load Switch MOSFET             |
 | VOUT    | P   | VBUS Output                                    |
 | GND     | P   | Ground                                         |
-| TP1/PMG | O   | Inverted Gate Pulse Probing Point(Side B only) |
-
-Note: PMG stand for "PM"OS "G"ate.
+| TP1/PMG | O   | PMOS Gate Pulse Probing Point(Side B only)     |
 
 ## Usage
 Soldering the parts obtained according to the [BOM](./PDBreakout_BOM.pdf) and configure the output voltage of the PD with "SEL_STAT".
@@ -30,4 +28,6 @@ Note: VBUS voltage is 12/9/5V for IP2721-MAX12
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ## Related Document
-[IP2721 Datasheet](https://datasheet.lcsc.com/lcsc/2006111335_INJOINIC-IP2721_C603176.pdf)
+[IP2721 Datasheet](https://datasheet.lcsc.com/lcsc/2006111335_INJOINIC-IP2721_C603176.pdf)  
+[Side A PartMap](./PDBreakout_PartMap_SideA.pdf)  
+[Side B PartMap](./PDBreakout_PartMap_SideB.pdf)  
