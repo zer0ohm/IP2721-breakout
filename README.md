@@ -15,6 +15,7 @@ Breakout for IP2721 Sink-side USB PD Controller
 
 ## Usage
 Soldering the parts obtained according to the [BOM](./PDBreakout_BOM.pdf) and configure the output voltage of the PD with "SEL_STAT".
+* __IMPORTANT: MUST populate 5.1kΩ resistor to CCx, then configure SEL_STAT before power input.__
 
 | SEL_STAT Voltage | Connected Terminals | Output VBUS Voltage |
 |------------------|---------------------|---------------------|
